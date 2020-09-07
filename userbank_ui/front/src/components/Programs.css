@@ -1,0 +1,82 @@
+.Programs {
+    padding: 60px 0;
+    color: #ffb200;
+    width: 80%;
+    min-width: 440px;
+    margin: auto;
+    text-align: -webkit-center;
+}
+.title {
+    inline-size: min-content;
+}
+table {
+  margin: 0 auto;
+  min-width: 380px;
+  color: #fff;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.programtable{
+    margin-bottom: 20px;
+}
+.addform{
+    border-width: medium;
+    border-color: #ffb200;
+    border-style: solid;
+    border-radius: 2%;
+    max-width: 440px;
+}
+.field-input{
+    float: right;
+    color: #000;
+    border-radius: 4px;
+    border-color: #337ab7;
+}
+.field-set{
+    display: flow-root;
+    margin: 10px; 
+}
+.field-label{
+    float: left;
+}
+
+.form-btn{
+    margin: auto;
+    width: 130px;
+}
+.table-btn{
+    width: 31%;
+    margin: 1px;
+    padding: 10px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+tr:nth-child(2n) {
+    background-color: #181725;
+}
+.p{
+    margin: 0;
+}
+
+.button-group{
+    height: 61px;
+    text-align: center;
+    min-width: -webkit-fill-available;
+    margin: 10px;
+}
+.btn-col{
+    min-width: 160px;
+    text-align: center;
+}
+.logout-btn{
+    float: right;
+}

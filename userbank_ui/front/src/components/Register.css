@@ -1,0 +1,41 @@
+
+    .Register {
+        padding: 60px 0;
+        color: #ffb200;
+    }
+
+    .Register form {
+        margin: 0 auto;
+        max-width: 320px;
+    }
+
+    .button-group {
+        padding: 0;
+        display: flex;
+        width: -webkit-fill-available;
+        margin: 0;
+        max-width: 320px;
+        align-items: center;
+    }
+
+    .login-btn{
+        width: 135px;
+
+        margin-right: 5px;
+    }
+    .register-btn{
+        width: 136px;
+        margin-left: 5px;
+    }
+    .button{
+        padding: 0;
+        font-family: "Open Sans",sans-serif;
+        font-size: 16px;
+        width: 10%;
+        font-weight: 700;
+    }
+    .btn-block+.btn-block {
+        margin-top: 0px;
+    }
+
+
